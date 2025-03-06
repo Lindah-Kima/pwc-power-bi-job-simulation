@@ -10,4 +10,4 @@ In the simulation I:
 
 **Certificate of Completion**  
 I’m proud to share my PwC Power BI certificate:  
-![PwC Certificate](Pwc_Power_BI_cert.pdf)
+![PwC Certificate]([Pwc_Power_BI_cert.pdf](https://github.com/Lindah-Kima/pwc-power-bi-job-simulation/blob/main/Pwc%20_Power_BI_cert.pdf))
