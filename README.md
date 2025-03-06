@@ -9,4 +9,5 @@ In the simulation I:
 - Showcased strong communication skills via email summaries and clear data-driven recommendations.
 
 **Certificate of Completion**  
+![PwC Certificate]([pwc_certificate.png](https://github.com/Lindah-Kima/pwc-power-bi-job-simulation/blob/main/Pwc%20Power%20BI%20cert.pdf))
 
